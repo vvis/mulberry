@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<image src="{{imageSrc}}"></image>
+<button bindtap="chooseImg">Choose Img</button>
